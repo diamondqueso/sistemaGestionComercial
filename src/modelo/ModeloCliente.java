@@ -10,8 +10,8 @@ package modelo;
  */
 public class ModeloCliente {
     // atributos
-    private String nombres;
-    private String apellidos;
+    private String nombre;
+    private String apellido;
     
     
 }
